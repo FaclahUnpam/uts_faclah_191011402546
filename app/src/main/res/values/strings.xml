@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">UAS_FACLAH_19101140256</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us">About Us</string>
+    <string name="penerimaan_mahasiswa_baru">Penerimaan Mahasiswa Baru</string>
+    <string name="program_sarjana">Program Sarjana</string>
+    <string name="location">Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_location">Map</string>
+    <string name="title_activity_google_maps_api">Map</string>
+</resources>

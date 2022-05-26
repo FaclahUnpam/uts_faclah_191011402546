@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "uas_faclah_191011402546"
